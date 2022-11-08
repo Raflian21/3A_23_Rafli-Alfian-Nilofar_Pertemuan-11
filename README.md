@@ -1,16 +1,4 @@
 # statefull_rafli
+Output Aplikasi
+![output_statefull1](https://user-images.githubusercontent.com/95726593/200468202-da0c534f-5c36-4f3b-84de-dd7b14593107.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
